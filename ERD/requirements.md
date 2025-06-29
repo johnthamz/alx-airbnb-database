@@ -10,4 +10,4 @@ This ERD visualizes the structure of the AirBnB Clone database. It includes the 
 
 Each entity includes key attributes, and the relationships between them show how the data is connected.
 
-![ER Diagram](ERD/er-diagram.png)
+![ER Diagram](./er-diagram.png)
