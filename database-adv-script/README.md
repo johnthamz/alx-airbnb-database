@@ -19,3 +19,18 @@ Retrieves all users and bookings, including unmatched records using `UNION`.
 This file contains:
 - A subquery to find properties with an average rating greater than 4.0
 - A correlated subquery to identify users who have made more than 3 bookings
+
+
+# Aggregation and Window Functions in SQL
+
+## File: aggregations_and_window_functions.sql
+
+This file contains two advanced SQL queries:
+
+1. **Aggregation with COUNT and GROUP BY**  
+   - Finds the total number of bookings made by each user.
+
+2. **Window Function with RANK()**  
+   - Ranks properties based on the total number of bookings they have received.
+
+
